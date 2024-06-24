@@ -1,0 +1,17 @@
+.testo-text{
+    text-align: center;
+    margin-top: 2rem;
+}
+
+.testo-container{
+    padding: 0 10rem;
+}
+.each-slide-effect > div {
+    margin: 3rem 10rem;
+    background-color: #aee2fa;
+    text-align: center;
+    padding: 1.5rem;
+    border: 1px solid #aee2fa;
+    border-radius: 20px
+  }
+  

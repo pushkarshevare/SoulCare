@@ -1,0 +1,26 @@
+[
+    {
+        "id":1,
+        "name":"Pushkaraj Shevre",
+        "review":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit voluptatum excepturi corrupti fugiat quo similique ullam repellat ipsa? Dicta ullam officia ipsum quia, earum quod nihil facere ut suscipit enim!",
+        "src":"/logo/man.png"
+    },
+    {
+        "id":2,
+        "name":"Rahul Sarag",
+        "review":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit voluptatum excepturi corrupti fugiat quo similique ullam repellat ipsa? Dicta ullam officia ipsum quia, earum quod nihil facere ut suscipit enim!",
+        "src":"/logo/man.png"
+    },
+    {
+        "id":3,
+        "name":"Rohan Chaudhari",
+        "review":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit voluptatum excepturi corrupti fugiat quo similique ullam repellat ipsa? Dicta ullam officia ipsum quia, earum quod nihil facere ut suscipit enim!",
+        "src":"/logo/man.png"
+    },
+    {
+        "id":4,
+        "name":"Nikhil Zopepatil",
+        "review":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit voluptatum excepturi corrupti fugiat quo similique ullam repellat ipsa? Dicta ullam officia ipsum quia, earum quod nihil facere ut suscipit enim!",
+        "src":"/logo/man.png"
+    }
+]

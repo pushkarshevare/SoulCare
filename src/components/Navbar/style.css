@@ -1,0 +1,40 @@
+.arjent-contact{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 5px;
+    font-weight: 500;
+}
+nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: white;
+    background-color: #219EBC;
+}
+.logo{
+    display: flex;
+    align-items: center;
+}
+.logo h2 {
+    font-family: "Mooli", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+}
+.logo img{
+    width: 70px;
+}
+ul{
+    display: flex;
+    gap: 1.5rem;
+    list-style: none;
+    font-weight: 500;
+}
+.button button{
+    font-weight: 500;
+    border: 0.5px solid #FFB703;
+    color: black;
+    background-color: #FFB703;
+    padding: 10px 15px;
+    border-radius: 20px;
+}

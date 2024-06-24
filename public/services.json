@@ -1,0 +1,69 @@
+[
+    {
+        "id":1,
+        "name":"Cancer",
+        "description":"Cancer is a term for a group of diseases characterized by uncontrolled cell growth. Cells in the body begin to grow and divide at an abnormally rapid pace, forming masses called tumors. Tumors can be benign (non-cancerous) or malignant (cancerous).",
+        "image":"/logo/cancer.png"
+    },
+    {
+        "id":2,
+        "name":"Dental Care",
+        "description":"ental care is crucial for maintaining overall health and well-being. Proper oral hygiene prevents tooth decay, gum disease, and bad breath, and plays a significant role in your ability to eat, speak, and enjoy a good quality of life.",
+        "image":"/logo/floss.png"
+    },
+    {
+        "id":3,
+        "name":"Cardiology",
+        "description":"Cardiology is the branch of medicine that focuses on diagnosing and treating diseases and conditions of the heart and blood vessels (the cardiovascular system). Cardiologists are doctors who specialize in this field, providing care for heart conditions ranging from congenital defects to acquired diseases like coronary artery disease.",
+        "image":"/logo/heart.png"
+    },
+    {
+        "id":4,
+        "name":"Gastroenterology",
+        "description":"Gastroenterology is the branch of medicine focused on the digestive system and its disorders. This specialty deals with the diagnosis, treatment, and prevention of conditions affecting the gastrointestinal (GI) tract, which includes the esophagus, stomach, intestines, liver, gallbladder, and pancreas",
+        "image":"/logo/gastroenterology.png"
+    },
+    {
+        "id":4, 
+        "name":"Mental Health",
+        "description":"Mental health encompasses our emotional, psychological, and social well-being. It influences how we think, feel, and behave, and affects our ability to handle stress, relate to others, and make decisions. Mental health is crucial at every stage of life, from childhood and adolescence through adulthood.",
+        "image":"/logo/mental-health.png"
+    },
+    {
+        "id":5,
+        "name":"Dermatology",
+        "description":"Dermatology is the branch of medicine that focuses on the diagnosis, treatment, and prevention of skin, hair, and nail disorders. Dermatologists are medical doctors specialized in managing a wide array of dermatological conditions, ranging from cosmetic issues to serious diseases.",
+        "image":"/logo/dermatology.png"
+    },
+    {
+        "id":6,
+        "name":"Urology",
+        "description":"Urology is a branch of medicine that focuses on the health of the urinary tract and the male reproductive organs. It involves the diagnosis, treatment, and management of urinary tract disorders and diseases affecting kidneys, ureters, bladder, and urethra. In men, it also covers issues involving the prostate, testes, scrotum, and penis.",
+        "image":"/logo/cancer.png"
+    },
+    {
+        "id":7,
+        "name":"Plastic and Cosmetic Surgery",
+        "description":"Plastic and cosmetic surgery are specialized fields of medicine focusing on enhancing appearance, reconstructing facial and body defects, and improving function. Although often used interchangeably, plastic surgery and cosmetic surgery have distinct goals and applications.",
+        "image":"/logo/cancer.png"
+    },
+    {
+        "id":8,
+        "name":"Orthopaedics",
+        "description":"Orthopaedics is a medical specialty focused on diagnosing, treating, and preventing disorders of the musculoskeletal system, which includes bones, joints, ligaments, tendons, muscles, and nerves. Orthopaedic surgeons use both surgical and non-surgical methods to treat various conditions, ranging from congenital deformities and traumatic injuries to degenerative diseases and sports injuries.",
+        "image":"/logo/cancer.png"
+    },
+    {
+        "id":9,
+        "name":"Ophthalmology",
+        "description":"Ophthalmology is a medical and surgical specialty focused on the diagnosis, treatment, and prevention of eye diseases and disorders. Ophthalmologists are medical doctors who provide a wide range of eye care, from prescribing glasses and contact lenses to performing complex eye surgeries.",
+        "image":"/logo/cancer.png"
+    },
+    {
+        "id":10,
+        "name":"Neurology",
+        "description":"Neurology is a branch of medicine dealing with disorders of the nervous system, which includes the brain, spinal cord, and peripheral nerves. Neurologists are medical doctors who diagnose and treat conditions that affect these areas, often working closely with other specialists to provide comprehensive care for complex neurological conditions.",
+        "image":"/logo/cancer.png"
+    }
+    
+]

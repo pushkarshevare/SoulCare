@@ -1,0 +1,28 @@
+.footer{
+    background-color: #023047;
+    color: white;
+    
+}
+.footer-container{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    padding: 0 10rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+
+}
+.cols{
+    display: flex;
+    align-items: center;
+}
+.cols ul{
+    display: inline;
+    
+}
+.cols ul li{
+    margin-top: 0.5rem;
+}
+.cols img{
+    width: 70%;
+    /* height: 100%; */
+}

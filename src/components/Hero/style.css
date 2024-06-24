@@ -1,0 +1,42 @@
+
+
+.hero-section{
+    background-color: #219EBC;
+    height: 34.1rem;
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.hero-section .image{
+    display: flex; 
+    justify-content: space-around;
+    height: 100%;
+}
+.hero-section .headline{
+    margin-left: 5rem;
+    color: white;
+}
+.hero-section .headline button{
+    cursor: pointer;
+    margin-top: 0.5rem;
+    font-size: medium;
+    background-color: #FFB703;
+    padding: 10px 15px;
+    border: 1px solid #FFB703;
+    border-radius: 20px;
+    color: #023047;
+    font-weight: 500;
+}
+.hero-section .headline h1{
+    font-family: "Mooli", sans-serif;
+    font-weight: 900;
+    font-style:normal;
+}
+.hero-section .headline p{
+    font-size: 1.1em; /* Subheadline */
+    margin: 0.5em 0;;
+}
+.hero-section .headline h1 span{
+    color:  #023047;
+}

@@ -1,0 +1,51 @@
+.book-app{
+    background-color: #f7f7f7;
+}
+.book-form{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* height: 80vh; */
+    margin: 1rem 0;
+}
+.form{
+    width: 40%;
+    background: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+.form h4{
+   margin-bottom: 5px;
+}
+
+.fields{
+    display: flex;
+    flex-direction: column;
+    flex: 1 1 calc(50% - 20px); /* Each field takes 50% of the width minus the gap */
+    min-width: 200px
+}
+.fields input,select{
+    padding: 5px 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    width: 90%;
+}
+.submit-btn{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}  
+.submit-btn button{
+    margin-top: 1rem;
+    font-size: medium;
+    background-color: #ffb703;
+    color: black;
+    padding: 8px 35px;
+    border: none;
+    border-radius: 10px;
+    font-weight: 600;    
+}
