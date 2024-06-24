@@ -34,3 +34,11 @@
     gap: 10px;
     margin-bottom: 10px;
 }
+.special .view :where(p){
+    text-align: center;
+    color: blue;
+    margin-bottom: 1rem;
+}
+.special .view :where(p):hover{
+    text-decoration: underline;
+}

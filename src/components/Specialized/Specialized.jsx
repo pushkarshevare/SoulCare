@@ -57,6 +57,9 @@ const Specialized = () => {
             </p>
         </div>
       </div>
+      <div className="view">
+        <p>view more....</p>
+      </div>
     </div>
   )
 }
