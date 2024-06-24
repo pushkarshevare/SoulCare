@@ -10,7 +10,7 @@
 
 .hero-section .image{
     display: flex; 
-    justify-content: space-around;
+    /* justify-content: space-around; */
     height: 100%;
 }
 .hero-section .headline{
